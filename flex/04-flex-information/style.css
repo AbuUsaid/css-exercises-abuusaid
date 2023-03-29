@@ -11,7 +11,43 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+/* edit below this */
+.heading{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
 
+.container{
+  display:flex;
+  justify-content: space-between;
+  margin:52px;
+  padding:0;
+  
+}
+/* .container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+} */
+
+.photos{
+  max-width: 200px;
+  text-align:center;
+}
+
+.photos .text{
+  text-align: center;
+}
+
+.
+/* .images{
+  display: flex;
+} */
+
+/* .images .text{
+  align-items: flex-end;
+} */
 /* do not edit this footer */
 .footer {
   position: fixed;
